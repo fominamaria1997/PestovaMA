@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4db45276-4ddf-46ae-bc21-191011b8b841" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Vnxkase9Q1nJ1BGeQHTzvtHvAD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.Lessons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GPT">
+    <configuration name="FinalTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Lessons.FinalTask1" />
+      <module name="PestovaMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.Lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Lessons.FinalTask2" />
+      <module name="PestovaMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.Lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GPT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Lessons.GPT" />
+      <module name="PestovaMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.Lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Lessons.Task13" />
+      <module name="PestovaMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.Lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Lessons.Task14" />
+      <module name="PestovaMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.Lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GPT" />
+        <item itemvalue="Application.FinalTask2" />
+        <item itemvalue="Application.FinalTask1" />
+        <item itemvalue="Application.Task14" />
+        <item itemvalue="Application.Task13" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4db45276-4ddf-46ae-bc21-191011b8b841" name="Default Changelist" comment="" />
+      <created>1695485789362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695485789362</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1622" y="342" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1695486129821">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1622" y="342" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1695486129821" />
+    <state x="2408" y="815" key="#xdebugger.evaluate" timestamp="1695499809716">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2408" y="815" key="#xdebugger.evaluate/0.0.3440.1400@0.0.3440.1400" timestamp="1695499809716" />
+    <state width="1918" height="348" key="GridCell.Tab.0.bottom" timestamp="1695500613036">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1918" height="348" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1695500613036" />
+    <state width="1918" height="348" key="GridCell.Tab.0.center" timestamp="1695500613035">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1918" height="348" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1695500613035" />
+    <state width="1918" height="348" key="GridCell.Tab.0.left" timestamp="1695500613035">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1918" height="348" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1695500613035" />
+    <state width="1918" height="348" key="GridCell.Tab.0.right" timestamp="1695500613036">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1918" height="348" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1695500613036" />
+    <state width="1918" height="348" key="GridCell.Tab.1.bottom" timestamp="1695500618322">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1918" height="348" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1695500618322" />
+    <state width="1918" height="348" key="GridCell.Tab.1.center" timestamp="1695500618322">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1918" height="348" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1695500618322" />
+    <state width="1918" height="348" key="GridCell.Tab.1.left" timestamp="1695500618321">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1918" height="348" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1695500618321" />
+    <state width="1918" height="348" key="GridCell.Tab.1.right" timestamp="1695500618322">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1918" height="348" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1695500618322" />
+    <state x="1669" y="329" key="SettingsEditor" timestamp="1695486105898">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1669" y="329" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1695486105898" />
+    <state x="1421" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1695485792205">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1421" y="524" key="com.intellij.ide.util.TipDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1695485792205" />
+    <state x="2042" y="470" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1695499982410">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2042" y="470" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.3440.1400@0.0.3440.1400" timestamp="1695499982410" />
+    <state x="1550" y="307" key="new project wizard" timestamp="1695486145771">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1550" y="307" key="new project wizard/0.0.3440.1400@0.0.3440.1400" timestamp="1695486145771" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Lessons/GPT.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
