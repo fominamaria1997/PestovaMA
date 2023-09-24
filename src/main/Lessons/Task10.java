@@ -1,6 +1,5 @@
 package main.Lessons;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Task10 {
@@ -10,26 +9,24 @@ public class Task10 {
         return new Scanner(System.in);
     }
 
-    public static int[][] matrix;
-
     public static void main(String[] args) {
-        System.out.println("Пожалуйста, введите размерность матрицы:");
-        int length = scanner().nextInt();
-        int width = scanner().nextInt();
-        ArrayList<int[]> cat = new ArrayList<>();
-        matrix = new int[length][width];
-        for (int i = 0; i < width; i++) {
-            System.out.println("Пожалуйста, введите массив:");
-            int[] ds = new int[length];
-            for (int ii = 0; ii < length; ii++) {
-                ds[ii] = scanner().nextInt();
+
+        Scanner scan = new Scanner(System.in);
+        System.out.print("Пожалуйста, задайте размерность матрицы: ");
+        int a = scan.nextInt();
+        System.out.print("Пожалуйста, задайте размерность матрицы: ");
+        int b = scan.nextInt();
+        int[][] ar = new int[a][b];
+
+        for (int i = 0; i < ar.length; i++) {
+            for (int j = 0; j < ar[i].length; j++) {
+                System.out.println("Пожалуйста, введите 1 элемент массива ar[" + i + "][" + j + "]:");
+                ar[i][j] = scan.nextInt();
             }
-            cat.add(ds);
-
-
         }
 
+        for (int i = 0; i < ar.length; i++) {
+            System.out.print("a [" + (i + 1) + "] = " + ar[i][0] * 3 + "\t");
+        }
     }
-
-
 }

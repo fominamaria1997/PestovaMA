@@ -9,21 +9,55 @@ public class FinalTask2 {
         return new Scanner(System.in);
     }
 
-    public static String row;
 
     public static void main(String[] args) {
-        System.out.println("Пожалуйста, введите уравнение: ");
-        row = scanner().nextLine();
+        Scanner scan = new Scanner(System.in);
 
-        if (!("+"
-                .equals(String.valueOf(row.charAt(1))) || "-"
-                .equals(String.valueOf(row.charAt(1))) && "="
-                .equals(String.valueOf(row.charAt(3)))&&(Character.isDigit(row.charAt(0))||Character.isDigit(row.charAt(2))||Character.isDigit(row.charAt(4)))
+        System.out.print("Пожалуйста, введите уравнение: ");
+        String line = scan.nextLine();
 
-        ))
-            System.out.println("Вы ыыели [ерн.");
-        System.out.println();
-        Boolean ReturnValue = Character.isDigit(row.charAt(0));
+        char[] arr = line.toCharArray();
+        int x = line.indexOf('x');
 
+        int result = 0;
+        int a = Character.getNumericValue(arr[0]);
+        int b = Character.getNumericValue(arr[2]);
+        int c = Character.getNumericValue(arr[4]);
+
+        if (arr.length < 6) {
+
+            if (arr[1] == '+') {
+                switch (x) {
+                    case (0):
+                        result = c - b;
+                        break;
+                    case (2):
+                        result = c - a;
+                        break;
+                    case (4):
+                        result = a + b;
+                        break;
+                }
+                System.out.println("Вывод: " + result);
+            } else if (arr[1] == '-') {
+                switch (x) {
+                    case (0):
+                        result = c + b;
+                        break;
+                    case (2):
+                        result = a - c;
+                        break;
+                    case (4):
+                        result = a - b;
+                        break;
+                }
+                System.out.println("Вывод: " + result);
+            } else {
+                System.out.println("Вы ввели некорретный математический знак");
+            }
+        } else {
+            System.out.println("Количество символов уравнения не должно превышать 5");
+        }
     }
 }
+
